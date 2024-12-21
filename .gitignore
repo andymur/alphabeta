@@ -1,5 +1,5 @@
 # Node.js
-frontent/node_modules/
+frontent/node_modules/*
 
 # Logs
 frontent/logs/
@@ -9,7 +9,7 @@ frontent/yarn-debug.log*
 frontent/yarn-error.log*
 
 # Dependency directories
-frontent//.pnp
+frontent/.pnp
 frontent/.pnp.js
 
 # Next.js build output
