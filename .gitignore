@@ -1,29 +1,29 @@
 # Node.js
-frontent/node_modules/*
+frontend/node_modules/
 
 # Logs
-frontent/logs/
+frontend/logs/
 *.log
-frontent/npm-debug.log*
-frontent/yarn-debug.log*
-frontent/yarn-error.log*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
 
 # Dependency directories
-frontent/.pnp
-frontent/.pnp.js
+frontend/.pnp
+frontend/.pnp.js
 
 # Next.js build output
-frontent/.next/
+frontend/.next/
 
 # Next.js static files
-frontent/out/
+frontend/out/
 
 # Environment variables
-frontent/.env
-frontent/.env.local
-frontent/.env.development.local
-frontent/.env.test.local
-frontent/.env.production.local
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
 
 # Local IDE configurations
 .idea/
@@ -35,10 +35,10 @@ frontent/.env.production.local
 Thumbs.db
 
 # Test coverage
-frontent/coverage/
+frontend/coverage/
 
 # Optional npm cache directory
-frontent/.npm/
+frontend/.npm/
 
 # Temporary files
 *.tmp
@@ -56,7 +56,7 @@ Thumbs.db
 *.log
 
 # Optional yarn cache
-frontent/.yarn/
+frontend/.yarn/
 .pnp.*
 
 # Storybook files
@@ -66,6 +66,6 @@ storybook-static/
 public/assets/
 
 # Ignored builds
-frontent/*.next
-frontent/dist/
-frontent/build/
+frontend/*.next
+frontend/dist/
+frontend/build/
