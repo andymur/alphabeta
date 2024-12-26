@@ -23,3 +23,13 @@
 - Unzip the downloaded project.
 - Open your favorite IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
 - Import the project as a Maven project.
+
+3. Run the Application
+- Navigate to the project directory using console
+- Run the following Maven command:
+mvn spring-boot:run
+- Alternatively, you can run the main class directly from your IDE.
+
+4. Test the Application
+- By default, Spring Boot will start a web server (e.g., Tomcat) on port 8080.
+- Test the REST API by adding a sample controller in src/main/java/com/andymur/alphabeta.
