@@ -1,4 +1,4 @@
-1. Use Spring Initializr (Web Interface)
+1. Use Spring Initializr https://start.spring.io/
 
 - Open [Spring Initializr]([url](https://start.spring.io/)) in your browser.
 - Configure the project:
