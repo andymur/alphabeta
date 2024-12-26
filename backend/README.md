@@ -5,9 +5,9 @@
 - Project: Maven
 - Language: Java
 - Spring Boot Version: 3.x.x (choose the latest stable release)
-- Group: com.example (or your preferred group ID)
-- Artifact: demo (or your preferred artifact ID)
-- Name: demo
+- Group: com.andymur (or your preferred group ID)
+- Artifact: alphabeta (or your preferred artifact ID)
+- Name: alphabeta
 - Description: A Spring Boot 3.x project
 - Package Name: Auto-generated based on Group and Artifact
 - Packaging: Jar
@@ -18,3 +18,8 @@
 - Spring Data JPA (for working with databases)
 - H2 Database (or another database like MySQL or PostgreSQL if needed)
 - Click on Generate to download a pre-configured Maven project.
+
+2.  Unzip and Import the Project
+- Unzip the downloaded project.
+- Open your favorite IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+- Import the project as a Maven project.
