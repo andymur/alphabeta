@@ -1,6 +1,6 @@
 1. Use Spring Initializr (Web Interface)
 
-- Open [Spring Initializr]([https://start.spring.io/]) in your browser.
+- Open [Spring Initializr]([url](https://start.spring.io/)) in your browser.
 - Configure the project:
 - Project: Maven
 - Language: Java
