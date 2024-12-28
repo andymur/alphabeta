@@ -30,6 +30,8 @@
 mvn spring-boot:run
 - Alternatively, you can run the main class directly from your IDE.
 
+4. Create new branch (e.g. backend-something), push your changes and create pull request
+
 4. Test the Application
 - By default, Spring Boot will start a web server (e.g., Tomcat) on port 8080.
 - Test the REST API by adding a sample controller in src/main/java/com/andymur/alphabeta.
