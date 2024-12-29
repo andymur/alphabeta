@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: dataproc
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mydb
+    username: myuser
+    password: mypassword
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
