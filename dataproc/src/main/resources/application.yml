@@ -7,3 +7,9 @@ spring:
     password: mypassword
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+app:
+  datasource:
+    tableName: users
+
+server:
+  port: 9090
