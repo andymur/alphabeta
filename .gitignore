@@ -69,3 +69,5 @@ public/assets/
 frontend/*.next
 frontend/dist/
 frontend/build/
+
+backend/target/
